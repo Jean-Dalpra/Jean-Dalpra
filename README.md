@@ -88,6 +88,6 @@ Gosto de transformar ideias em projetos reais, aprender novas tecnologias e enfr
 
 ### ⭐ Obrigado por visitar meu perfil!
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Jean-Dalpra&color=blue&style=for-the-badge"/>
 
 </div>
